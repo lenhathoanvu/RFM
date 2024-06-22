@@ -6,14 +6,14 @@ You are invited to take on the role of Data Analyst for Meki Group - a coffee bu
 ## Datasets
 ### Dim_ustomer Dataset 
 This dataset contains information about customers. Key columns include:
-- customer_id: Unique identifier for each customer.
-- home_store: Store ID where the customer primarily shops.
-- gender: Gender of the customer.
-- customer_first_name: First name of the customer.
-- birthdate: Birthdate of the customer.
-- customer_email: Email address of the customer.
-- customer_since: Date when the customer first registered or made a purchase.
-- loyalty_card_number: Loyalty card number associated with the customer.
+- ```customer_id```: Unique identifier for each customer.
+- ```home_store```: Store ID where the customer primarily shops.
+- ```gender```: Gender of the customer.
+- ```customer_first_name```: First name of the customer.
+- ```birthdate```: Birthdate of the customer.
+- ```customer_email```: Email address of the customer.
+- ```customer_since```: Date when the customer first registered or made a purchase.
+- ```loyalty_card_number```: Loyalty card number associated with the customer.
 
 ### Dim_employee dataset 
 This dataset contains information about employees. Key columns include:
