@@ -76,6 +76,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - Data Preprocessing
 - Data Mining
 - Data Clustering (K-means)
+
 In this case, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a2d24983-47d4-4a70-a998-0280a443935a)
