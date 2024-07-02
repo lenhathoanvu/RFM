@@ -78,7 +78,5 @@ By scoring customers on each of these dimensions, businesses can segment their c
 ## Product 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
 
-
-
-
-
+# Python - RFM analysis: Customer Segmentation
+[Link Code](https://github.com/lenhathoanvu/RFM/blob/master/RFM_Analysis_Meki_Group.ipynb)
