@@ -85,4 +85,14 @@ The three key components of RFM analysis are:
 - ```Recency```: How recently a customer has made a purchase. Customers who recently purchased are more likely to buy again compared to those who haven't purchased in a while.
 - ```Frequency```: How often a customer makes a purchase within a specific time frame. Customers who purchase more frequently are generally more loyal and engaged.
 - ```Monetary```: The total amount of money a customer has spent. High-spending customers are often considered more valuable.
+
 By scoring customers on each of these dimensions, businesses can segment their customer base, target marketing efforts more effectively, and ultimately increase customer retention and sales.
+
+I wrote a Python script based on store transactions from 3 tables 2020-2022. The code will divide customers into the following groups:
+- Best Customers
+- Loyal Customers
+- Big Spenders
+- Almost Lost
+- Lost Customers
+- Lost Cheap Customers
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/558ae291-bcd9-4bdf-9b50-bc34d01c3e7d)
