@@ -54,15 +54,6 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - ```unit_price```: Price per unit of the product.
 - ```promo_item_yn```: Flag indicating if the item was on promotion.
 
-## Method applied
-RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior. The three key components of RFM analysis are:
-- ```Recency```: How recently a customer has made a purchase. Customers who recently purchased are more likely to buy again compared to those who haven't purchased in a while.
-- ```Frequency```: How often a customer makes a purchase within a specific time frame. Customers who purchase more frequently are generally more loyal and engaged.
-- ```Monetary```: The total amount of money a customer has spent. High-spending customers are often considered more valuable.
-By scoring customers on each of these dimensions, businesses can segment their customer base, target marketing efforts more effectively, and ultimately increase customer retention and sales.
-
-![1_e_u8EebUkEUCo6dTDtKvIA](https://github.com/lenhathoanvu/RFM/assets/173127058/9faf655b-71cb-46be-aa76-e686f2d13452)
-
 # Tableau - Dashboard 
 [Link Dashboard](https://public.tableau.com/app/profile/l.nh.t.ho.n.v./viz/Meki-Group/Product?publish=yes)
 ## Data modeling:
@@ -80,3 +71,17 @@ By scoring customers on each of these dimensions, businesses can segment their c
 
 # Python - RFM analysis: Customer Segmentation
 [Link Code](https://github.com/lenhathoanvu/RFM/blob/master/RFM_Analysis_Meki_Group.ipynb)
+## Method applied
+- Data Cleaning
+- Data Preprocessing
+- Data Mining
+- Data Clustering (K-means)
+In this case, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
+
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a2d24983-47d4-4a70-a998-0280a443935a)
+
+The three key components of RFM analysis are:
+- ```Recency```: How recently a customer has made a purchase. Customers who recently purchased are more likely to buy again compared to those who haven't purchased in a while.
+- ```Frequency```: How often a customer makes a purchase within a specific time frame. Customers who purchase more frequently are generally more loyal and engaged.
+- ```Monetary```: The total amount of money a customer has spent. High-spending customers are often considered more valuable.
+By scoring customers on each of these dimensions, businesses can segment their customer base, target marketing efforts more effectively, and ultimately increase customer retention and sales.
