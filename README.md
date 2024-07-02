@@ -63,7 +63,8 @@ By scoring customers on each of these dimensions, businesses can segment their c
 
 ![1_e_u8EebUkEUCo6dTDtKvIA](https://github.com/lenhathoanvu/RFM/assets/173127058/9faf655b-71cb-46be-aa76-e686f2d13452)
 
-# Tableau - Dashboard [a link]([https://github.com/user/repo/blob/branch/other_file.md%29](https://public.tableau.com/app/profile/l.nh.t.ho.n.v./viz/Meki-Group/Product?publish=yes))
+# Tableau - Dashboard 
+[Link Dashboard]([https://public.tableau.com/app/profile/l.nh.t.ho.n.v./viz/Meki-Group/Product?publish=yes])
 ## Data modeling:
 - I have combined 3 sales tables into one large table ```Historical_sales``` to perform Data 
   ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/7eb207a2-2a51-4f39-9929-86e15f96d766)
