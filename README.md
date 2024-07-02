@@ -17,10 +17,10 @@ This dataset contains information about customers. Key columns include:
 
 ### Dim_employee dataset 
 This dataset contains information about employees. Key columns include:
-- staff_id: Unique identifier for each employee.
-- first_name and last_name: Employee's first and last names.
-- position: Job title of the employee.
-- start_date and end_date: Employment start and end dates.
+- ```staff_id```: Unique identifier for each employee.
+- ```first_name``` and ```last_name```: Employee's first and last names.
+- ```position```: Job title of the employee.
+- ```start_date``` and ```end_date```: Employment start and end dates.
 
 ### Dim_product dataset: 
 This dataset provides details about products. Key columns include:
@@ -68,6 +68,17 @@ By scoring customers on each of these dimensions, businesses can segment their c
 ## Data modeling:
 - I have combined 3 sales tables into one large table ```Historical_sales``` to perform Data 
   ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/7eb207a2-2a51-4f39-9929-86e15f96d766)
+
+## Sales Overview for 6 months 
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a65b02a3-252c-4868-8db6-9369d1a6493c)
+## Customer
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/8bf7732b-81e4-4af7-9ebc-e47add332991)
+## Employee 
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3986ffa0-41c8-4473-9c7e-aba7efd45c81)
+## Product 
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
+
+
 
 
 
