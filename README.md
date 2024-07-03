@@ -73,6 +73,7 @@ Recommendations:
 - Boost Underperformers: Increase marketing for food, whole bean/teas, merchandise, and add-ons.
 - Analyze Fluctuations: Investigate the causes of monthly revenue and profit changes to stabilize future performance.
 - Consistent Strategies: Apply successful strategies uniformly across all store locations.
+
 ## Customer
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
 Insights:
@@ -82,16 +83,44 @@ Insights:
 - Peak Hours: Highest traffic is between 8-10 AM, peaking at 10 AM (68.31K customers).
 - Store Traffic: 100 Church Street has the most customers (946), followed by 32-20 Broadway (801), and 687 9th Avenue (503).
 - Average revenue per customer is $1,149.
+
 Recommendations:
 - Target 23-34 Age Group: Tailor promotions to this demographic.
 - Engage Female Customers: Increase targeted promotions for females.
 - Strengthen Loyalty Programs: Focus on retaining long-term customers.
 - Optimize Peak Hours: Enhance staffing during 8-10 AM and create off-peak promotions.
 - Boost 9th Avenue Traffic: Apply successful strategies from higher-performing stores to 687 9th Avenue.
+
 ## Employee 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3986ffa0-41c8-4473-9c7e-aba7efd45c81)
+Insights:
+- Top performers: Britanni Jorden, Kylie Candace, and Joelle Christen consistently lead in both years, indicating strong sales skills.
+- Wide performance gap: There's a large difference between top and bottom performers.
+
+Recommendations:
+- Implement training programs to help lower-performing employees improve their sales techniques.
+- Consider having top performers mentor others to share best practices.
+- Analyze what factors contributed to the success of top performers and try to replicate these across the team.
+- Review compensation structure to ensure it adequately motivates all employees.
+
 ## Product 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
+Insights:
+
+- Coffee is the highest revenue category, followed by tea and bakery items.
+- Barista Espresso is the top revenue-generating product type.
+- There's a significant gap between revenue and profit for most products, indicating high costs.
+- Sustainably Grown Organic products (large and regular) are among the highest revenue items.
+- Specialty drinks (e.g., Dark Chocolate, Latte, Cappuccino) perform well in revenue.
+
+Recommendations:
+- Focus marketing efforts on high-profit margin items, especially in the coffee category.
+- Expand the sustainably grown and organic product lines due to their popularity.
+- Analyze costs for products with large revenue-profit gaps to improve profitability.
+- Consider promoting tea and bakery items more to boost their sales.
+- Evaluate low-performing products (e.g., Packaged Chocolate, Flavours) for potential improvement or removal.
+- Leverage the popularity of Barista Espresso to introduce complementary products or upsells.
+- Investigate the success factors of top-performing products to apply to other offerings.
 
 # Python - RFM analysis: Customer Segmentation
 [Link Code](https://github.com/lenhathoanvu/RFM/blob/master/RFM_Analysis_Meki_Group.ipynb)
