@@ -81,19 +81,21 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
 **Insights:**
-- Age Group: The largest segment is 23-34 (30.22%), followed by 35-44 (23.07%), and 45-60 (24.76%).
-- Gender: Most customers are female (43.38%), followed by male (32.31%), with 24.31% not specified.
-- Customer Loyalty: Balanced with most from 2017 (44.00%) and 2018 (43.91%).
-- Peak Hours: Highest traffic is between 8-10 AM, peaking at 10 AM (68.31K customers).
-- Store Traffic: 100 Church Street has the most customers (946), followed by 32-20 Broadway (801), and 687 9th Avenue (503).
+- Customer demographics: Largest age group is 23-34 (30.22%), and females make up the majority (43.38%) of customers.
+- Customer loyalty: 44% of customers have been with the store since 2017.
+- Peak hours: Highest customer traffic is between 7-9 AM.
+- Store popularity: 100 Church Street is the busiest location with 946 customers.
 - Average revenue per customer is $1,149.
 
 **Recommendations:**
-- Target 23-34 Age Group: Tailor promotions to this demographic.
-- Engage Female Customers: Increase targeted promotions for females.
-- Strengthen Loyalty Programs: Focus on retaining long-term customers.
-- Optimize Peak Hours: Enhance staffing during 8-10 AM and create off-peak promotions.
-- Boost 9th Avenue Traffic: Apply successful strategies from higher-performing stores to 687 9th Avenue.
+- Target marketing towards the 23-34 age group and female customers to capitalize on the largest customer segments.
+- Implement a loyalty program to retain long-term customers and attract new ones.
+- Optimize staffing and inventory during peak hours (7-9 AM) to manage the rush efficiently.
+- Analyze the success factors of 100 Church Street and apply them to other locations, especially 687 9th Avenue.
+- Consider extending operating hours earlier in the morning to capture potential customers before the 6 AM rush.
+- Develop strategies to increase customer visits during slower hours (1-5 AM, 19-20 PM).
+- Investigate reasons for the lower customer count at 687 9th Avenue and implement improvements.
+- Create targeted promotions or products for different age groups to boost sales across all demographics.
 
 ## Employee 
 **Question:** Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally, how much of the total revenue does the employee with the highest commission in each of these quarters contribute to Meki's total revenue, expressed as a percentage?
