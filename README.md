@@ -98,7 +98,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - Create targeted promotions or products for different age groups to boost sales across all demographics.
 
 ## Employee 
-**Question:** Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally, how much of the total revenue does the employee with the highest commission in each of these quarters contribute to Meki's total revenue, expressed as a percentage?
+**Question:** Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally?
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/eaf3c60d-66e6-47a0-816c-94d89d4df3cd)
 **Insights:**
