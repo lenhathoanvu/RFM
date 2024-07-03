@@ -62,6 +62,17 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 
 ## Sales Overview for 6 months 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/20b017d0-c164-49df-a089-48557de53fc4)
+Insights:
+- Top Performer: Beverages are the top revenue and profit generators, contributing $785.01K in revenue and $588.43K in profit. Focus marketing efforts here.
+- Store Performance: All three stores contribute almost equally to total revenue and profit, indicating consistent performance across locations.
+- Trends: There's a noticeable dip in revenue and profit from November 2021 to January 2022, followed by a sharp increase in March 2022. Understanding these fluctuations can help in planning.
+- High Profit Margin: The store maintains a strong profit margin of 74.05%, with total revenue of $1.02M and total costs of $264.06K in the last six months.
+
+Recommendations:
+- Emphasize Beverage Sales: Continue to promote and expand the beverage menu.
+- Boost Underperformers: Increase marketing for food, whole bean/teas, merchandise, and add-ons.
+- Analyze Fluctuations: Investigate the causes of monthly revenue and profit changes to stabilize future performance.
+- Consistent Strategies: Apply successful strategies uniformly across all store locations.
 ## Customer
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
 ## Employee 
