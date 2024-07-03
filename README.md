@@ -146,6 +146,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - Data Preprocessing
 - Data Mining
 - Data Clustering (K-means)
+- RFM method
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a2d24983-47d4-4a70-a998-0280a443935a)
 
