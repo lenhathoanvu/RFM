@@ -75,6 +75,19 @@ Recommendations:
 - Consistent Strategies: Apply successful strategies uniformly across all store locations.
 ## Customer
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
+Insights:
+- Age Group: The largest segment is 23-34 (30.22%), followed by 35-44 (23.07%), and 45-60 (24.76%).
+- Gender: Most customers are female (43.38%), followed by male (32.31%), with 24.31% not specified.
+- Customer Loyalty: Balanced with most from 2017 (44.00%) and 2018 (43.91%).
+- Peak Hours: Highest traffic is between 8-10 AM, peaking at 10 AM (68.31K customers).
+- Store Traffic: 100 Church Street has the most customers (946), followed by 32-20 Broadway (801), and 687 9th Avenue (503).
+- Average revenue per customer is $1,149.
+Recommendations:
+- Target 23-34 Age Group: Tailor promotions to this demographic.
+- Engage Female Customers: Increase targeted promotions for females.
+- Strengthen Loyalty Programs: Focus on retaining long-term customers.
+- Optimize Peak Hours: Enhance staffing during 8-10 AM and create off-peak promotions.
+- Boost 9th Avenue Traffic: Apply successful strategies from higher-performing stores to 687 9th Avenue.
 ## Employee 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3986ffa0-41c8-4473-9c7e-aba7efd45c81)
 ## Product 
