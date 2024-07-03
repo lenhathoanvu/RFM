@@ -63,7 +63,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 ## Sales Overview for 6 months 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/20b017d0-c164-49df-a089-48557de53fc4)
 ## Customer
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/8bf7732b-81e4-4af7-9ebc-e47add332991)
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
 ## Employee 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3986ffa0-41c8-4473-9c7e-aba7efd45c81)
 ## Product 
