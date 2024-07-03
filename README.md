@@ -61,6 +61,8 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
   ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/7eb207a2-2a51-4f39-9929-86e15f96d766)
 
 ## Sales Overview for 6 months 
+Question: Mr. Brewer Mark, the CFO of Meki Group, is about to have a meeting with the Board of Directors to discuss some changes for the corporation. He needs you to provide an overview of Meki Group's business performance in the last 6 months. With your analytical skills, help Brewer Mark by providing key metrics such as revenue, profit, profit margin, and the percentage contribution of each store's revenue and profit to the total revenue.
+
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/20b017d0-c164-49df-a089-48557de53fc4)
 Insights:
 - Top Performer: Beverages are the top revenue and profit generators, contributing $785.01K in revenue and $588.43K in profit. Focus marketing efforts here.
@@ -75,6 +77,8 @@ Recommendations:
 - Consistent Strategies: Apply successful strategies uniformly across all store locations.
 
 ## Customer
+Question: Mr. LeBean Jean, the CEO of Meki Group, wants to gain a better understanding of the company's customer base (e.g., average age, gender, etc.). As a data analyst, help Mr. Jean with this task.
+
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
 Insights:
 - Age Group: The largest segment is 23-34 (30.22%), followed by 35-44 (23.07%), and 45-60 (24.76%).
@@ -92,16 +96,24 @@ Recommendations:
 - Boost 9th Avenue Traffic: Apply successful strategies from higher-performing stores to 687 9th Avenue.
 
 ## Employee 
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3986ffa0-41c8-4473-9c7e-aba7efd45c81)
+Question: Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally, how much of the total revenue does the employee with the highest commission in each of these quarters contribute to Meki's total revenue, expressed as a percentage?
+
+![image](https://github.com/lenhathoanvu/RFM/assets/173127058/eaf3c60d-66e6-47a0-816c-94d89d4df3cd)
 Insights:
-- Top performers: Britanni Jorden, Kylie Candace, and Joelle Christen consistently lead in both years, indicating strong sales skills.
-- Wide performance gap: There's a large difference between top and bottom performers.
+- Overall revenue increased from Q1 2021 to Q1 2022 (409K to 425.74K).
+- Britanni Jorden consistently leads in revenue and commission both years.
+- The top 5 employees maintain their positions year-over-year.
+- Average revenue per employee increased slightly (16.35K to 17.03K).
+- Most employees show small growth in revenue from 2021 to 2022.
 
 Recommendations:
-- Implement training programs to help lower-performing employees improve their sales techniques.
-- Consider having top performers mentor others to share best practices.
-- Analyze what factors contributed to the success of top performers and try to replicate these across the team.
-- Review compensation structure to ensure it adequately motivates all employees.
+- Analyze Britanni Jorden's strategies to potentially apply across the team.
+- Focus on improving performance of lower-ranking employees through targeted training.
+- Investigate reasons behind the overall revenue increase and capitalize on successful factors.
+- Consider incentives or recognition programs to motivate continued growth.
+- Evaluate commission structures to ensure they're driving desired behaviors and results.
+- Look into any employees with declining performance (e.g., Aline Melanie) to address potential issues.
+- Develop strategies to increase the average revenue per employee further.
 
 ## Product 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
@@ -123,15 +135,14 @@ Recommendations:
 - Investigate the success factors of top-performing products to apply to other offerings.
 
 # Python - RFM analysis: Customer Segmentation
+Question: One of Meki Group's key strategies in the near future is to improve and enhance the customer shopping experience, increase the number of new customers, and boost the retention rate of existing customers. Therefore, the company wants you to use your analytical skills to calculate and categorize new and loyal customers based on the purchase history in the provided dataset.
+In this case, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
 [Link Code](https://github.com/lenhathoanvu/RFM/blob/master/RFM_Analysis_Meki_Group.ipynb)
 ## Method applied
 - Data Cleaning
 - Data Preprocessing
 - Data Mining
 - Data Clustering (K-means)
-
-In this case, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
-
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a2d24983-47d4-4a70-a998-0280a443935a)
 
 The three key components of RFM analysis are:
