@@ -83,14 +83,14 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 **Insights:**
 - Customer demographics: Largest age group is 23-34 (30.22%), and females make up the majority (43.38%) of customers.
 - Customer loyalty: 44% of customers have been with the store since 2017.
-- Peak hours: Highest customer traffic is between 7-9 AM.
+- Peak hours: Highest customer traffic is between 8-10 AM.
 - Store popularity: 100 Church Street is the busiest location with 946 customers.
 - Average revenue per customer is $1,149.
 
 **Recommendations:**
 - Target marketing towards the 23-34 age group and female customers to capitalize on the largest customer segments.
 - Implement a loyalty program to retain long-term customers and attract new ones.
-- Optimize staffing and inventory during peak hours (7-9 AM) to manage the rush efficiently.
+- Optimize staffing and inventory during peak hours (8-10 AM) to manage the rush efficiently.
 - Analyze the success factors of 100 Church Street and apply them to other locations, especially 687 9th Avenue.
 - Consider extending operating hours earlier in the morning to capture potential customers before the 6 AM rush.
 - Develop strategies to increase customer visits during slower hours (1-5 AM, 19-20 PM).
