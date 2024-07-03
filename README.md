@@ -61,26 +61,26 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
   ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/7eb207a2-2a51-4f39-9929-86e15f96d766)
 
 ## Sales Overview for 6 months 
-Question: Mr. Brewer Mark, the CFO of Meki Group, is about to have a meeting with the Board of Directors to discuss some changes for the corporation. He needs you to provide an overview of Meki Group's business performance in the last 6 months. With your analytical skills, help Brewer Mark by providing key metrics such as revenue, profit, profit margin, and the percentage contribution of each store's revenue and profit to the total revenue.
+**Question:** Mr. Brewer Mark, the CFO of Meki Group, is about to have a meeting with the Board of Directors to discuss some changes for the corporation. He needs you to provide an overview of Meki Group's business performance in the last 6 months. With your analytical skills, help Brewer Mark by providing key metrics such as revenue, profit, profit margin, and the percentage contribution of each store's revenue and profit to the total revenue.
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/20b017d0-c164-49df-a089-48557de53fc4)
-Insights:
+**Insights:**
 - Top Performer: Beverages are the top revenue and profit generators, contributing $785.01K in revenue and $588.43K in profit. Focus marketing efforts here.
 - Store Performance: All three stores contribute almost equally to total revenue and profit, indicating consistent performance across locations.
 - Trends: There's a noticeable dip in revenue and profit from November 2021 to January 2022, followed by a sharp increase in March 2022. Understanding these fluctuations can help in planning.
 - High Profit Margin: The store maintains a strong profit margin of 74.05%, with total revenue of $1.02M and total costs of $264.06K in the last six months.
 
-Recommendations:
+**Recommendations:**
 - Emphasize Beverage Sales: Continue to promote and expand the beverage menu.
 - Boost Underperformers: Increase marketing for food, whole bean/teas, merchandise, and add-ons.
 - Analyze Fluctuations: Investigate the causes of monthly revenue and profit changes to stabilize future performance.
 - Consistent Strategies: Apply successful strategies uniformly across all store locations.
 
 ## Customer
-Question: Mr. LeBean Jean, the CEO of Meki Group, wants to gain a better understanding of the company's customer base (e.g., average age, gender, etc.). As a data analyst, help Mr. Jean with this task.
+**Question:** Mr. LeBean Jean, the CEO of Meki Group, wants to gain a better understanding of the company's customer base (e.g., average age, gender, etc.). As a data analyst, help Mr. Jean with this task.
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
-Insights:
+**Insights:**
 - Age Group: The largest segment is 23-34 (30.22%), followed by 35-44 (23.07%), and 45-60 (24.76%).
 - Gender: Most customers are female (43.38%), followed by male (32.31%), with 24.31% not specified.
 - Customer Loyalty: Balanced with most from 2017 (44.00%) and 2018 (43.91%).
@@ -88,7 +88,7 @@ Insights:
 - Store Traffic: 100 Church Street has the most customers (946), followed by 32-20 Broadway (801), and 687 9th Avenue (503).
 - Average revenue per customer is $1,149.
 
-Recommendations:
+**Recommendations:**
 - Target 23-34 Age Group: Tailor promotions to this demographic.
 - Engage Female Customers: Increase targeted promotions for females.
 - Strengthen Loyalty Programs: Focus on retaining long-term customers.
@@ -96,17 +96,17 @@ Recommendations:
 - Boost 9th Avenue Traffic: Apply successful strategies from higher-performing stores to 687 9th Avenue.
 
 ## Employee 
-Question: Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally, how much of the total revenue does the employee with the highest commission in each of these quarters contribute to Meki's total revenue, expressed as a percentage?
+**Question:** Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally, how much of the total revenue does the employee with the highest commission in each of these quarters contribute to Meki's total revenue, expressed as a percentage?
 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/eaf3c60d-66e6-47a0-816c-94d89d4df3cd)
-Insights:
+**Insights:**
 - Overall revenue increased from Q1 2021 to Q1 2022 (409K to 425.74K).
 - Britanni Jorden consistently leads in revenue and commission both years.
 - The top 5 employees maintain their positions year-over-year.
 - Average revenue per employee increased slightly (16.35K to 17.03K).
 - Most employees show small growth in revenue from 2021 to 2022.
 
-Recommendations:
+**Recommendations:**
 - Analyze Britanni Jorden's strategies to potentially apply across the team.
 - Focus on improving performance of lower-ranking employees through targeted training.
 - Investigate reasons behind the overall revenue increase and capitalize on successful factors.
@@ -117,7 +117,7 @@ Recommendations:
 
 ## Product 
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
-Insights:
+**Insights:**
 
 - Coffee is the highest revenue category, followed by tea and bakery items.
 - Barista Espresso is the top revenue-generating product type.
@@ -125,7 +125,7 @@ Insights:
 - Sustainably Grown Organic products (large and regular) are among the highest revenue items.
 - Specialty drinks (e.g., Dark Chocolate, Latte, Cappuccino) perform well in revenue.
 
-Recommendations:
+**Recommendations:**
 - Focus marketing efforts on high-profit margin items, especially in the coffee category.
 - Expand the sustainably grown and organic product lines due to their popularity.
 - Analyze costs for products with large revenue-profit gaps to improve profitability.
@@ -135,20 +135,22 @@ Recommendations:
 - Investigate the success factors of top-performing products to apply to other offerings.
 
 # Python - RFM analysis: Customer Segmentation
-Question: One of Meki Group's key strategies in the near future is to improve and enhance the customer shopping experience, increase the number of new customers, and boost the retention rate of existing customers. Therefore, the company wants you to use your analytical skills to calculate and categorize new and loyal customers based on the purchase history in the provided dataset.
-In this case, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
+**Question:** One of Meki Group's key strategies in the near future is to improve and enhance the customer shopping experience, increase the number of new customers, and boost the retention rate of existing customers. Therefore, the company wants you to use your analytical skills to calculate and categorize new and loyal customers based on the purchase history in the provided dataset.
+
+**In this case**, I will use RFM Analysis to segment customers. RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to identify and categorize customers based on their purchasing behavior.
 [Link Code](https://github.com/lenhathoanvu/RFM/blob/master/RFM_Analysis_Meki_Group.ipynb)
 ## Method applied
 - Data Cleaning
 - Data Preprocessing
 - Data Mining
 - Data Clustering (K-means)
+
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/a2d24983-47d4-4a70-a998-0280a443935a)
 
 The three key components of RFM analysis are:
-- ```Recency```: How recently a customer has made a purchase. Customers who recently purchased are more likely to buy again compared to those who haven't purchased in a while.
-- ```Frequency```: How often a customer makes a purchase within a specific time frame. Customers who purchase more frequently are generally more loyal and engaged.
-- ```Monetary```: The total amount of money a customer has spent. High-spending customers are often considered more valuable.
+- **Recency**: How recently a customer has made a purchase. Customers who recently purchased are more likely to buy again compared to those who haven't purchased in a while.
+- **Frequency**: How often a customer makes a purchase within a specific time frame. Customers who purchase more frequently are generally more loyal and engaged.
+- **Monetary**: The total amount of money a customer has spent. High-spending customers are often considered more valuable.
 
 By scoring customers on each of these dimensions, businesses can segment their customer base, target marketing efforts more effectively, and ultimately increase customer retention and sales.
 
@@ -163,30 +165,30 @@ I wrote a Python script based on store transactions from 3 tables 2020-2022. The
 
 ### Some strategic development directions for the store
 
-Enhance Loyal Customer Care:
+**Enhance Loyal Customer Care:**
 - Reward Programs: Develop reward programs, discounts, or special offers exclusively for loyal customers to increase engagement.
 - Personalized Services: Provide personalized services, such as sending birthday wishes or special gifts on significant occasions.
   
-Attract High-Spending Customers:
+**Attract High-Spending Customers:**
 - Exclusive Offers: Provide exclusive offers and VIP customer programs for high-spending groups.
 - Premium Products/Services: Introduce additional premium products or services to meet the needs of this customer group.
 
-Recover Nearly Lost Customers:
+**Recover Nearly Lost Customers:**
 - Feedback Surveys: Send feedback surveys to understand why customers almost left and improve weak points.
 - Promotional Campaigns: Implement promotional campaigns aimed at enticing them to return, such as discounts or gifts when they shop again.
 
-Reduce Customer Attrition:
+**Reduce Customer Attrition:**
 - Analyze Reasons: Analyze the reasons for customer attrition and take measures to address them, such as improving product or service quality.
 - Promotional Programs: Create attractive promotional programs to retain customers.
 
-Optimize Best Customer Care:
+**Optimize Best Customer Care:**
 - Priority Services: Provide priority and special services for the best customer group to enhance satisfaction and loyalty.
 - Loyalty Programs: Ensure this customer group always benefits from loyalty programs and feels valued.
 
-Marketing Strategy for Potential Customers:
+**Marketing Strategy for Potential Customers:**
 - Marketing Campaigns: Build marketing campaigns targeting potential customers based on the profile of current customers.
 - Targeted Advertising: Use targeted advertising on online platforms to reach potential customer groups.
 
-Improve Overall Customer Experience:
+**Improve Overall Customer Experience:**
 - Employee Training: Enhance employee training on customer service to ensure every customer has the best experience when visiting the store.
 - Service Improvement: Continuously improve service and product quality based on customer feedback.
