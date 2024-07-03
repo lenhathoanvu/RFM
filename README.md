@@ -107,3 +107,25 @@ I wrote a Python script based on store transactions from 3 tables 2020-2022. The
 - Lost Customers
 - Lost Cheap Customers
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/558ae291-bcd9-4bdf-9b50-bc34d01c3e7d)
+###Some strategic development directions for the store:
+Enhance Loyal Customer Care:
+- Reward Programs: Develop reward programs, discounts, or special offers exclusively for loyal customers to increase engagement.
+- Personalized Services: Provide personalized services, such as sending birthday wishes or special gifts on significant occasions.
+Attract High-Spending Customers:
+- Exclusive Offers: Provide exclusive offers and VIP customer programs for high-spending groups.
+- Premium Products/Services: Introduce additional premium products or services to meet the needs of this customer group.
+Recover Nearly Lost Customers:
+- Feedback Surveys: Send feedback surveys to understand why customers almost left and improve weak points.
+- Promotional Campaigns: Implement promotional campaigns aimed at enticing them to return, such as discounts or gifts when they shop again.
+Reduce Customer Attrition:
+- Analyze Reasons: Analyze the reasons for customer attrition and take measures to address them, such as improving product or service quality.
+- Promotional Programs: Create attractive promotional programs to retain customers.
+Optimize Best Customer Care:
+- Priority Services: Provide priority and special services for the best customer group to enhance satisfaction and loyalty.
+- Loyalty Programs: Ensure this customer group always benefits from loyalty programs and feels valued.
+Marketing Strategy for Potential Customers:
+- Marketing Campaigns: Build marketing campaigns targeting potential customers based on the profile of current customers.
+- Targeted Advertising: Use targeted advertising on online platforms to reach potential customer groups.
+Improve Overall Customer Experience:
+- Employee Training: Enhance employee training on customer service to ensure every customer has the best experience when visiting the store.
+- Service Improvement: Continuously improve service and product quality based on customer feedback.
