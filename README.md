@@ -108,7 +108,7 @@ I wrote a Python script based on store transactions from 3 tables 2020-2022. The
 - Lost Cheap Customers
 ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/558ae291-bcd9-4bdf-9b50-bc34d01c3e7d)
 
-###Some strategic development directions for the store:
+### Some strategic development directions for the store
 
 Enhance Loyal Customer Care:
 - Reward Programs: Develop reward programs, discounts, or special offers exclusively for loyal customers to increase engagement.
