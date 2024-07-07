@@ -1,4 +1,4 @@
-# RFM Analysis
+# <p align = 'center'> RFM Analysis
 
 ## Business case
 You are invited to take on the role of Data Analyst for Meki Group - a coffee business chain headquartered in the USA with numerous branches worldwide. The company will provide you with raw datasets in .csv format regarding sales history and other information such as store details, customer information, employee data, and products the company is selling. Your task is to utilize your analytical skills and mindset to help Meki Group answer questions related to the company's business activities and make reasonable recommendations to enable Meki Group to make timely and accurate decisions.
