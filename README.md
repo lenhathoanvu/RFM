@@ -58,7 +58,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 [Link Dashboard](https://public.tableau.com/app/profile/l.nh.t.ho.n.v./viz/Meki-Group/Product?publish=yes)
 ## Data modeling:
 **Question:** Identify and describe the relationships between the tables in the Dataset sent to you
-- I have combined 3 sales tables into one large table ```Historical_sales``` to perform Data 
+- I have combined 3 ```sales``` tables from 2020 to 2022 into one large table ```Historical_sales``` to perform Data 
   ![image](https://github.com/lenhathoanvu/RFM/assets/173127058/7eb207a2-2a51-4f39-9929-86e15f96d766)
 
 ## Sales Overview for 6 months 
