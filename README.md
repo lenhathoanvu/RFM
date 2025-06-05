@@ -64,7 +64,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 ## Sales Overview for 6 months 
 **Question:** Mr. Brewer Mark, the CFO of Meki Group, is about to have a meeting with the Board of Directors to discuss some changes for the corporation. He needs you to provide an overview of Meki Group's business performance in the last 6 months. With your analytical skills, help Brewer Mark by providing key metrics such as revenue, profit, profit margin, and the percentage contribution of each store's revenue and profit to the total revenue.
 
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/20b017d0-c164-49df-a089-48557de53fc4)
+![image](https://github.com/user-attachments/assets/826f36a2-405e-478c-bc9d-aa7e3906ea74)
 **Insights:**
 - Top Performer: Beverages are the top revenue and profit generators, contributing $785.01K in revenue and $588.43K in profit. Focus marketing efforts here.
 - Store Performance: All three stores contribute almost equally to total revenue and profit, indicating consistent performance across locations.
@@ -80,7 +80,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 ## Customer
 **Question:** Mr. LeBean Jean, the CEO of Meki Group, wants to gain a better understanding of the company's customer base (e.g., average age, gender, etc.). As a data analyst, help Mr. Jean with this task.
 
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/3d2a7645-d269-4209-bd19-4459f2b4b6ff)
+![image](https://github.com/user-attachments/assets/b7c7e985-9feb-4b10-a2e8-bc64dd7484c6)
 **Insights:**
 - Customer demographics: Largest age group is 23-34 (30.22%), and females make up the majority (43.38%) of customers.
 - Customer loyalty: 44% of customers have been with the store since 2017.
@@ -101,7 +101,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 ## Employee 
 **Question:** Help Meki Group calculate the total revenue and the average revenue per employee for Q1 of 2021. Then, compare these figures with Q1 of 2022. Assuming each employee receives a 5% commission on each order sold, how much commission has each employee received? Additionally?
 
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/eaf3c60d-66e6-47a0-816c-94d89d4df3cd)
+![image](https://github.com/user-attachments/assets/38a0c807-fd58-4712-9a46-bb914898c946)
 **Insights:**
 - Overall revenue increased from Q1 2021 to Q1 2022 (409K to 425.74K).
 - Britanni Jorden consistently leads in revenue and commission both years.
@@ -119,7 +119,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - Develop strategies to increase the average revenue per employee further.
 
 ## Product 
-![image](https://github.com/lenhathoanvu/RFM/assets/173127058/fe083d5a-7919-43a9-a89b-77f894adf019)
+![image](https://github.com/user-attachments/assets/3aa48412-73ef-4379-8539-6ec249861c52)
 **Insights:**
 
 - Coffee is the highest revenue category, followed by tea and bakery items.
