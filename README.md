@@ -54,7 +54,7 @@ This dataset records sales transactions from 2021 to 2022. Key columns include:
 - ```unit_price```: Price per unit of the product.
 - ```promo_item_yn```: Flag indicating if the item was on promotion.
 
-# Tableau - Dashboard 
+# Dashboard 
 [Link Dashboard](https://public.tableau.com/app/profile/l.nh.t.ho.n.v./viz/Meki-Group/Product?publish=yes)
 ## Data modeling:
 **Question:** Identify and describe the relationships between the tables in the Dataset sent to you
